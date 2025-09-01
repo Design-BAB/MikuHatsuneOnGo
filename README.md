@@ -1,4 +1,4 @@
-🎵 Mik Hatsune On Go!
+🎵 Miku Hatsune On Go!
 A playful Go program that uses system beeps to recreate a melody inspired by Hatsune Miku lyrics. Each note is mapped to a frequency and played using the beeep library, with synchronized console output for lyrical timing.
 
 📦 Features
